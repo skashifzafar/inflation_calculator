@@ -1,1 +1,1 @@
-# inflation_calculator
+# Inflation Calculator
